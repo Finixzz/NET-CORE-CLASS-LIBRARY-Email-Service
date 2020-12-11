@@ -1,0 +1,9 @@
+C:\Users\450G6\source\repos\Vipago\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\450G6\source\repos\Vipago\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\450G6\source\repos\Vipago\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\450G6\source\repos\Vipago\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
